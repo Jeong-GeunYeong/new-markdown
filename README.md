@@ -40,3 +40,10 @@ markdown language 공부
 구글로 가고 싶다면 [이것](https://www.google.com)을 클릭하세요.  
 구글로 가고 싶으면 [이것](https://www.google.com "구글 홈페이지")을 클릭하세요.  
 라이센스를 보고 싶으면 [이걸](./LICENSE)을 클릭하세요.   
+
+구글로 가고 싶다면 [이것][구글 홈페이지]을 클릭하세요. 
+
+
+
+
+[구글 홈페이지]: https://www.google.com
